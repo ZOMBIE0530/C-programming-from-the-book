@@ -1,4 +1,4 @@
-#C Programmming from the book
+# C Programmming from the book
 
 These programs are excercises from the book and any C projects I do will be in a seperate repository.
 
